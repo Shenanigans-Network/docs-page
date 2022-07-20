@@ -5,6 +5,11 @@ sidebar_position: 1
 
 This category contains Basic Survival Concepts, you may find useful while your time on the Moonball Network.
 
+Survival is a game where you need to survive in a world of
+mobs, animals, and other players.
+You must gather resources on your own and use them to build your house.
+
+
 The Moonball Survival is a unique Minecraft gaming experience.
 To enjoy the gamemode to the fullest, you need to know the basics.
 
@@ -53,3 +58,4 @@ small chance of giving you a Netherite block or can give you cobblestone if you'
 not lucky!
 
 Crate keys can be obtained by `/vote`ing for our server or from the item shop!
+

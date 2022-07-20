@@ -9,7 +9,7 @@ const config = {
   title: 'Moonball Network | Documentation',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -85,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/Introduction',
+                to: '/docs/docs/Introduction',
               },
             ],
           },
